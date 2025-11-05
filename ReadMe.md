@@ -90,19 +90,6 @@ If you are **not using IBM Skills Network Labs**, you can safely remove `skillsn
      Your image was classified as a cat 🐱
      ```
 
----
-
-## 📊 Example Output
-
-| Step                  | Screenshot                                 |
-| --------------------- | ------------------------------------------ |
-| Original Image        | ![Original Image](assets/original_cat.png) |
-| H.O.G. Visualization  | ![HOG Image](assets/hog_output.png)        |
-| Classification Result | `Your image was classified as a dog 🐶`    |
-
-*(You can add screenshots from your results in the `assets/` folder.)*
-
----
 
 ## 🧪 Dataset Information
 
@@ -128,4 +115,5 @@ Feel free to reuse and modify with proper attribution.
 ---
 
 ```
+
 
